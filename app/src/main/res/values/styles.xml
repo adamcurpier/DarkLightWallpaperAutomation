@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DarkLightTheme" parent="OneUITheme">
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:statusBarColor">@color/app_background</item>
+        <item name="android:navigationBarColor">@color/app_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:textColorPrimary">@color/app_text_primary</item>
+        <item name="android:textColorSecondary">@color/app_text_secondary</item>
+        <item name="android:colorAccent">@color/app_accent</item>
+    </style>
+
+    <style name="PreviewBadge">
+        <item name="android:textSize">10dp</item>
+        <item name="android:textColor">#fffafafa</item>
+        <item name="android:background">@drawable/preview_badge_bg</item>
+        <item name="android:fontFamily">sec-roboto-light</item>
+        <item name="android:paddingStart">7dp</item>
+        <item name="android:paddingEnd">7dp</item>
+        <item name="android:fontStyle">normal</item>
+    </style>
+
+</resources>

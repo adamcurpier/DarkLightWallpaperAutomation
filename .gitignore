@@ -29,3 +29,7 @@ Thumbs.db
 # Generated APK / bundle outputs
 *.apk
 *.aab
+
+# Local/generated leftovers
+app/build.gradle.original
+app/release/output-metadata.json
