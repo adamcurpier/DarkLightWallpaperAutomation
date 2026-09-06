@@ -47,6 +47,8 @@ Example tested schedule:
 - Dark wallpaper starts: **7:00 PM**
 - Light wallpaper returns: **7:00 AM next day**
 
+For a more detailed walkthrough, see [INSTALLATION.md](INSTALLATION.md).
+
 ## Matching the phone's system Dark Mode schedule
 
 Dark & Light controls wallpapers. It does **not** force the Android system-wide Light/Dark theme in Time mode.
@@ -167,6 +169,12 @@ https://github.com/Yanndroid/DualWallpaper
 The original project was released under the **MIT License**. The original MIT copyright and permission notice are retained in this repository as required by that license.
 
 Major work in this fork includes a redesigned Dark & Light interface, renamed application/package, custom launcher artwork, improved time scheduling, exact-alarm handling, foreground-service reliability work, device-specific System Dark Mode guidance, Xiaomi / HyperOS background-reliability guidance, and extensive real-device validation.
+
+## Documentation
+
+- [Installation and setup](INSTALLATION.md)
+- [Troubleshooting](TROUBLESHOOTING.md)
+- [MIT License](LICENSE)
 
 ## License
 
