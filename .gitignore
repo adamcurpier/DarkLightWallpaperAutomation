@@ -13,6 +13,10 @@ captures/
 .externalNativeBuild/
 .cxx/
 
+# Local development backups / scratch material
+backups/
+*.zip
+
 # Signing / secrets
 *.jks
 *.keystore
